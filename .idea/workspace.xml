@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b4048e1-cb09-4873-9548-b6cff824d237" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1coC7UgHsBPOFcqbfPbNfv7DL9e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b4048e1-cb09-4873-9548-b6cff824d237" name="Default Changelist" comment="" />
+      <created>1591185391627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591185391627</updated>
+      <workItem from="1591185392895" duration="8469000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="174" key="IDE.errors.dialog" timestamp="1591187532020">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="308" y="174" key="IDE.errors.dialog/0.23.1440.822@0.23.1440.822" timestamp="1591187532020" />
+    <state x="541" y="364" key="NewPhpFileDialog" timestamp="1591193004237">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="541" y="364" key="NewPhpFileDialog/0.23.1440.822@0.23.1440.822" timestamp="1591193004237" />
+  </component>
+</project>
