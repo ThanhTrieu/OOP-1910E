@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b4048e1-cb09-4873-9548-b6cff824d237" name="Default Changelist" comment="" />
+    <list default="true" id="1b4048e1-cb09-4873-9548-b6cff824d237" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/composerJson.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b2/bootstrap/Autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b2/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b2/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b2/index3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b2/index4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b2/index5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b2/index6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b2/src/controller/HomeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/b2/src/model/ProductModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +26,13 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1coC7UgHsBPOFcqbfPbNfv7DL9e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,8 +40,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -45,7 +67,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591185391627</updated>
-      <workItem from="1591185392895" duration="8469000" />
+      <workItem from="1591185392895" duration="8720000" />
+      <workItem from="1591239164889" duration="19000" />
+      <workItem from="1591263084212" duration="584000" />
+      <workItem from="1591344251777" duration="582000" />
+      <workItem from="1591773689589" duration="68000" />
+      <workItem from="1591773775722" duration="7811000" />
     </task>
     <servers />
   </component>
@@ -57,9 +84,15 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="308" y="174" key="IDE.errors.dialog/0.23.1440.822@0.23.1440.822" timestamp="1591187532020" />
-    <state x="541" y="364" key="NewPhpFileDialog" timestamp="1591193004237">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="541" y="364" key="NewPhpFileDialog" timestamp="1591793312379">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
+    <state x="541" y="364" key="NewPhpFileDialog/0.23.1440.821@0.23.1440.821" timestamp="1591793312379" />
     <state x="541" y="364" key="NewPhpFileDialog/0.23.1440.822@0.23.1440.822" timestamp="1591193004237" />
+    <state x="229" y="69" key="SettingsEditor" timestamp="1591804808799">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="229" y="69" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1591787914814" />
+    <state x="229" y="69" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1591804808799" />
   </component>
 </project>
